@@ -1,4 +1,4 @@
-package com.example.helloword
+package com.example.ciclo_vida_activity
 
 import org.junit.Test
 
