@@ -1,4 +1,4 @@
-# Master Desarrollo Android con Java y Kotlin
+# Master Desarrollo Android con Java y Kotlin Parte 1 WEB
 
 ## Descripcion 
 
@@ -16,7 +16,7 @@ El curso es impartido por Alejandro Lora, Miguel Campos Rivera
 
 ## Lo que se aprendera 
 
-- Android Jetpack: Base de Datos Room, ViewModel, Animaciones, patrón diseño MVVM...
+- Android Jetpack: Base de Datos Room, ViewModel, Animaciones, patrÃ³n diseÃ±o MVVM...
 - Material Design, Google Maps, Git y Github, Bitbucket, Android Studio, Google Play, subida de ficheros...
 - Consumir RestAPI con Retrofit desarrollando la app MiniTwitter, una red social desde cero.
 - Corregir y depurar/debuggear errores en las apps como un Ninja Developer.
